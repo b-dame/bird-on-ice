@@ -1,3 +1,1 @@
-
 # Game Design Document
-
